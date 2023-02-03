@@ -32,7 +32,7 @@ Web Tools is a comprehensive website that offers a variety of useful tools such 
 - Netlify
 
 ## How to Use
-To use the Web Blog UI, simply clone the repository and run the index.html file in your preferred browser.
+To use the WebTools, simply clone the repository and run the index.html file in your preferred browser.
 
 ## Deployment
 This project has been deployed on Netlify and is available for use by anyone.
